@@ -59,11 +59,17 @@ var person = new Person()
 <tr onClick={this.handleClick(id)}...
 ```
 * Что вам нравится в реакте? Что не нравится? :star::star:
+https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/react.md
 
 ## Redux
 
 * Зачем он нужен? :star:
 * Можно ли (и считается ли это нормальным) использовать локальный state компонента, если используется Redux? :star:
+https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/redux.md
+
+## Webpack
+TBD
+https://github.com/FAQGURU/FAQGURU/blob/master/topics/en/webpack.md
 
 ## Разное
 
